@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ParcticeWork2</string>
+    <string name="foodStuffButton">Заказать продукты</string>
+    <string name="rootMenuButton">Главное меню</string>
+    <string name="contactsButton">Оставить отзыв</string>
+</resources>
